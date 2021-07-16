@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jul 16 06:30:43 2021
-
 @author: Russa
 """
 
